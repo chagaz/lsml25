@@ -2,6 +2,7 @@
 Notebooks for the [2025 PSL Week course on Large Scale Machine Learning](https://cazencott.info/index.php/pages/LSML-25%3A-Large-Scale-Machine-Learning)
 
 ## Day 1: Introduction to large scale ML
+1_sklearn_at_scale.ipynb
 
 ## Day 2: Deep Learning, AutoEncoders and GANs
 
@@ -10,6 +11,7 @@ Notebooks for the [2025 PSL Week course on Large Scale Machine Learning](https:/
 ## Day 4: Deep reinforcement learning
 
 ## Day 5: Stochastic gradient descent
+5_stochastic_gradient_descent.ipynb
 
 
 ## Setup
