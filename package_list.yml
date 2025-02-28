@@ -1,0 +1,19 @@
+name: lsml
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - ipython
+  - joblib
+  - jupyterlab
+  - notebook
+  - numpy
+  - scipy
+  - spyder
+  - matplotlib
+  - memory_profiler
+  - scikit-learn==1.4.0
+pip:
+  - rise
+  - nbtutor
