@@ -16,6 +16,7 @@ Beginners should work on TP2a (LeNet on MNIST), and then at least begin TP2c (De
 Work on notebook `3_nlp_embedding_rnn.ipynb`.
 
 ## Day 4: Deep reinforcement learning
+Work on notebooks `4a_tabular_RL.ipynb` then `4b_deep_RL.ipynb`.
 
 ## Day 5: Stochastic gradient descent
 Work on notebook `5_stochastic_gradient_descent.ipynb`.  
